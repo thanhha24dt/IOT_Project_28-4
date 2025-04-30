@@ -5,5 +5,6 @@ int main() {
     // Khai báo 3 số nguyen
     int a = 5, b = 3, c = 2;
     int tong = a+b+c;
-
+    // Khai báo 3 số nguyên
+    int a = 5, b = 3, c = 2;
 }
